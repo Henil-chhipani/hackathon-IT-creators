@@ -1,0 +1,39 @@
+/* Form styles
+form {
+  width: 80%;
+  margin: 0 auto;
+}
+
+/* Fieldset styles */
+fieldset {
+  border: none;
+  padding: 0;
+}
+
+/* Legend styles */
+legend {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+/* Label styles */
+label {
+  font-size: 1.2em;
+  font-weight: bold;
+  display: block;
+  margin-bottom: 8px;
+}
+
+/* Input styles */
+
+
+/* Responsive styles */
+@media screen and (max-width: 600px) {
+  form {
+      width: 100%;
+  }
+  input[type="button"], input[type="submit"] {
+      width: 100%;
+  }
+} 
